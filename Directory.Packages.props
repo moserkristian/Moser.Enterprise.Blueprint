@@ -4,8 +4,8 @@
     <CentralPackageTransitivePinningEnabled>true</CentralPackageTransitivePinningEnabled>
     <RestorePackagesWithLockFile>false</RestorePackagesWithLockFile>
 
-    <DotNetRuntimeVersion>10.0.11</DotNetRuntimeVersion>
-    <DotNetExtensionsVersion>10.9.0</DotNetExtensionsVersion>
+    <DotNetRuntimeVersion>10.0.12</DotNetRuntimeVersion>
+    <DotNetExtensionsVersion>10.10.0</DotNetExtensionsVersion>
     <AspireVersion>13.5.3</AspireVersion>
     <OpenTelemetryVersion>1.18.0</OpenTelemetryVersion>
   </PropertyGroup>
